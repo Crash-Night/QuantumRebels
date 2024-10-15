@@ -32,8 +32,8 @@ Si compartes nuestra visión y quieres unirte a nuestra causa, contáctanos a tr
 <h2 align="center">Contacto</h2>
 <div align="center">
   <ul>
-    <li><b>Email:</b> Revelar prácticas ilegales y poco éticas de corporaciones y gobiernos.</li>
-    <li><b>Telegram:</b> Defender los derechos digitales de las personas y luchar contra la vigilancia masiva. 2</li>
+    <li><b>Email:</b> <b>(No Disponible)</b></li>
+    <li><b>Telegram:</b> <b>t.me/Crash_Night</b></li>
   </ul>
 </div>
 
